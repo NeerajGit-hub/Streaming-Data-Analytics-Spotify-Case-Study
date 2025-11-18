@@ -1,0 +1,66 @@
+PROJECT: Spotify Listening Analysis (Albums, Artists, Tracks)
+TOOL: Power BI
+PURPOSE: To understand listening behaviour and identify patterns across albums, artists, and tracks.
+
+------------------------------------------------------------
+1. ALBUMS ANALYSIS
+------------------------------------------------------------
+
+• Total Albums Played Over Time  
+  - Track monthly and yearly album listening trends.
+
+• Number of Albums Listened by Year  
+  - Identify annual listening habits.
+  - Display minimum and maximum albums listened per year.
+
+• Albums Played on Weekday & Weekend  
+  - Compare listening behaviour between weekdays and weekends.
+
+• Top 5 Albums  
+  - Identify the most played albums based on listening frequency.
+
+• Latest Year vs Previous Year Comparison  
+  - LY (Latest Year) vs PY (Previous Year) trends.
+  - YoY (Year-over-Year) growth rate.
+
+------------------------------------------------------------
+2. ARTISTS ANALYSIS
+------------------------------------------------------------
+
+• Total Artists Played Over Time  
+  - Track artist listening trends across months and years.
+
+• Number of Artists Listened by Year  
+  - Identify annual listening habits and artist diversity.
+  - Highlight Minimum and Maximum values.
+
+• Artists Played on Weekday & Weekend  
+  - Identify listening differences between weekdays and weekends.
+
+• Top 5 Artists  
+  - Identify most played artists.
+
+• Latest Year vs Previous Year Comparison  
+  - LY vs PY artist trends.
+  - YoY growth analysis.
+
+------------------------------------------------------------
+3. TRACKS ANALYSIS
+------------------------------------------------------------
+
+• Total Tracks Played Over Time  
+  - Monitor monthly and yearly track listening trends.
+
+• Number of Tracks Listened by Year  
+  - Identify track diversity across years.
+  - Display Min and Max tracks per year.
+
+• Tracks Played on Weekday & Weekend  
+  - Pattern of weekday vs weekend listening.
+
+• Top 5 Tracks  
+  - Identify the most played tracks.
+
+• Latest Year vs Previous Year Comparison  
+  - LY vs PY trends.
+  - YoY (Year-over-Year) growth for tracks.
